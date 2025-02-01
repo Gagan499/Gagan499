@@ -1,5 +1,6 @@
 # 💫 About Me:
-Currently pursuing a Bachelor's in Engineering in Computer Science
+->  Currently pursuing a Bachelor's in Engineering in Computer Science
+->  Contribute in frontend projects
 
 
 # 💻 Tech Stack:
